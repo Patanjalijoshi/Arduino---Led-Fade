@@ -1,7 +1,4 @@
 # Arduino---Led-Fade
-In this project the led brightness will be varied to create a fading effect
-
-## LED Fade
 This a basic experiment in which an led is connected to an arduino and the brightness is increased and decreased to create a fading effect.
 
 
